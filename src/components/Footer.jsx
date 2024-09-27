@@ -7,36 +7,29 @@ const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/facebook-new.png" />
+          <img src="/facebook-new.png" />
         </a>
         <a
           href="https://www.linkedin.com/in/anascodex/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/linkedin-2.png" />
+          <img src="/linkedin-2.png" />
         </a>
         <a
           href="https://www.instagram.com/anascodex/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" />
+          <img src="/instagram-new.png" />
         </a>
 
         <a
-          href="https://twitter.com/anascodex"
+          href="https://github.com/AnasCodex"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/twitter.png" />
-        </a>
-        <a
-          href="https://github.com/anas110440"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src="https://img.icons8.com/fluent/30/000000/github.png" />
+          <img src="/github.png" />
         </a>
       </div>
     </footer>
